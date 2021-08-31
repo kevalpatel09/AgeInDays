@@ -32,3 +32,9 @@ body{
         width: 90%;
     }
 }
+
+@media (min-width:700px) {
+    .container-1{
+        width: 40%;
+    }
+}
